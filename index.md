@@ -1,6 +1,6 @@
-## Well, Hello… 👋
+## welcome to c0SX
 
-**welcome to c 0 s x**
+Well, **Hello…** 👋
 
 Sharing resources, ideas, and codes
 
